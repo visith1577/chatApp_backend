@@ -1,0 +1,9 @@
+[package]
+name = "client_chat"
+version = "0.1.0"
+authors = ["visith kumarapperuma <visithr9@gmal.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
